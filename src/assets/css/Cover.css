@@ -1,5 +1,5 @@
-#front-cover .front, #front-cover .back, #back-cover .front, #back-cover .back {
-    background-color: #ff007f;
+#front-cover .front-content, #front-cover .back-content, #back-cover .front-content, #back-cover .back-content {
+    background-color: #ff007f !important;
 }
 
 /*#front-cover .front-content {
