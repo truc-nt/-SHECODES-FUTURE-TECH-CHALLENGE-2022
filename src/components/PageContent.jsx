@@ -149,8 +149,9 @@ const PageContent = [
         'front_content': `
             <div className = 'row'>
                 <div className = 'col-4 row'>
-                    <p>Cuối cùng, đã tới Đà Lạt rồi thì chắc chắn phải dạo chợ đêm rồi. Thật ra tớ thấy chợ cũng không khác gì các chợ đêm khác. Nhưng mà không hiểu sao hồi đi tới đây với trường, khám phá chợ đêm giữa thời tiết Đà Lạt lại có một cảm giác khác
-                    Cái cảm giác được ăn xiên nướng, uống sữa đậu nành nóng, tận hưởng cái se lạnh của Đà Lạt phải nói là đã gì đâu. Nếu mà được tới Đà Lạt thì chắc đêm nào tớ cũng sẽ đi ăn.</p>
+                    <p>Cuối cùng, đã tới Đà Lạt rồi thì chắc chắn phải dạo chợ đêm rồi. Thật ra tớ thấy chợ cũng không khác gì các chợ đêm khác. 
+                    Nhưng mà không hiểu sao hồi đi tới đây với trường, khám phá chợ đêm giữa thời tiết Đà Lạt lại có một cảm giác khác Cái cảm giác được ăn xiên nướng, uống sữa đậu nành nóng, tận hưởng cái se lạnh của Đà Lạt phải nói là đã gì đâu. 
+                    </p>
                 </div>
                 <div className = 'col-4'>
                     <div className = 'row'></div>

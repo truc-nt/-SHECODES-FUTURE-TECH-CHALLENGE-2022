@@ -137,6 +137,7 @@
     }
 
     #p16 .back-content p:nth-child(5) {
+        font-size: 8px;
         left: 10px;
         top: 50px;
         width: 130px;
