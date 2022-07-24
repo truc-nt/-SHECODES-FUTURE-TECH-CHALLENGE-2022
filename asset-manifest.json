@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.36b20f70.css",
-    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.5a77679b.js",
+    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.14e852ea.css",
+    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.d139e714.js",
     "static/js/787.9ef2590c.chunk.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js",
     "static/media/Cherry_Blossom_45_B.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Cherry_Blossom_45_B.752ce2b9c378b6fbe46e.jpg",
     "static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.60daa57df82a53b9c11b.jpg",
@@ -44,6 +44,7 @@
     "static/media/DL (18).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (18).824a8838e92cee0474ff.jpg",
     "static/media/DL (15).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (15).abf4c30b474066473f5d.jpg",
     "static/media/VT (4).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/VT (4).a2af0fb268396a183e15.jpg",
+    "static/media/DL (19).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (19).80f5b2d447cda2fa8315.jpg",
     "static/media/Phu Quoc.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Phu Quoc.8eed6a09e91fd6f5353d.jpg",
     "static/media/HN (12).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (12).6dc0af3c8825eab72388.jpg",
     "static/media/HN (10).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (10).b292140c213b5177de0e.jpg",
@@ -79,12 +80,12 @@
     "static/media/HN (7).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (7).5359bee1084b333181ee.jpg",
     "static/media/background HN.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/background HN.2360ff02a2ec8ad36b28.jpg",
     "index.html": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/index.html",
-    "main.36b20f70.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.36b20f70.css.map",
-    "main.5a77679b.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.5a77679b.js.map",
+    "main.14e852ea.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.14e852ea.css.map",
+    "main.d139e714.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.d139e714.js.map",
     "787.9ef2590c.chunk.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36b20f70.css",
-    "static/js/main.5a77679b.js"
+    "static/css/main.14e852ea.css",
+    "static/js/main.d139e714.js"
   ]
 }
