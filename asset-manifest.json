@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.8f266d80.css",
+    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.36b20f70.css",
     "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.5a77679b.js",
     "static/js/787.9ef2590c.chunk.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js",
     "static/media/Cherry_Blossom_45_B.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Cherry_Blossom_45_B.752ce2b9c378b6fbe46e.jpg",
@@ -79,12 +79,12 @@
     "static/media/HN (7).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (7).5359bee1084b333181ee.jpg",
     "static/media/background HN.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/background HN.2360ff02a2ec8ad36b28.jpg",
     "index.html": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/index.html",
-    "main.8f266d80.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.8f266d80.css.map",
+    "main.36b20f70.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.36b20f70.css.map",
     "main.5a77679b.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.5a77679b.js.map",
     "787.9ef2590c.chunk.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f266d80.css",
+    "static/css/main.36b20f70.css",
     "static/js/main.5a77679b.js"
   ]
 }
