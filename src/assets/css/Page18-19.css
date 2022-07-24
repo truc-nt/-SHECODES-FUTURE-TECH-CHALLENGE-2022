@@ -1,15 +1,15 @@
-#p18 .back-content {
+#p17 .back-content {
     padding-right: 0;
     align-items: flex-start; 
 }
 
-#p19 .front-content {
+#p18 .front-content {
     padding-left: 0;
     align-items: flex-end; 
     justify-content: flex-start;
 }
 
-#p18 .back-content div,  #p19 .front-content div  {
+#p17 .back-content div,  #p18 .front-content div  {
     background: url('../img/seoul-tower.jpg') no-repeat center center;
     background-size: cover;
     width: 50%;
@@ -17,51 +17,51 @@
     margin-right: 5px;
 }
 
-#p18 .back-content div:nth-child(2) {
+#p17 .back-content div:nth-child(2) {
     background: url('../img/sculpture-city-long-exposure-complex-amazing.jpg') no-repeat center center;
     background-size: cover;
 }
 
 
-#p19 .front-content div {
+#p18 .front-content div {
     background: url('../img/beautiful-shot-karst-mountains-with-rice-paddies-foreground-vang-vieng-laos.jpg') no-repeat center center;
     background-size: cover;
     margin-left: 5px;
     margin-right: 0px;
 }
 
-#p18 .back-content div:first-child {
+#p17 .back-content div:first-child {
     margin-bottom: 5px;
 }
 
-#p18 .back-content img:nth-child(3), #p19 .front-content img:nth-child(2) {
+#p17 .back-content img:nth-child(3), #p18 .front-content img:nth-child(2) {
     position: absolute;
     margin: 0;
 }
 
-#p18 .back-content img:nth-child(3), #p19 .front-content img:nth-child(2) {
+#p17 .back-content img:nth-child(3), #p18 .front-content img:nth-child(2) {
     width: 44%;
     height: 80%;
 }
 
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
-    #p18 .back-content img:nth-child(3), #p19 .front-content img:nth-child(2) {
+    #p17 .back-content img:nth-child(3), #p18 .front-content img:nth-child(2) {
         width: 42%;
         height: 73%;
     }
 }
 
 @media screen and  (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
-    #p18 .back-content img:nth-child(3), #p19 .front-content img:nth-child(2) {
+    #p17 .back-content img:nth-child(3), #p18 .front-content img:nth-child(2) {
         width: 48%;
         height: 93%;
     }
 }
 
-#p18 .back-content img:nth-child(3) {
+#p17 .back-content img:nth-child(3) {
     right: 0;
 }
 
-#p19 .front-content img:nth-child(2) {
+#p18 .front-content img:nth-child(2) {
     left: 0;
 }

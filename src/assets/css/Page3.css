@@ -20,7 +20,7 @@
 }
 
 #p3 .back-content .col-5 {
-    height: 25%;
+    height: 100%;
     align-self: flex-end;
 }
 
@@ -44,7 +44,7 @@
 }
 .col-5 .DL {
     background-image: url('../img/DL (12).jpg');
-    height: 100%;
+    height: 25%;
 }
 
 #p3 h1 {
@@ -62,6 +62,12 @@
 
 #p3 .back-content .row .row {
     padding-left: 0;
+}
+
+#p3 .back-content .col-5 > div:first-child {
+    background: url('../img/DL (19).jpg') no-repeat center center;
+    background-size: cover;
+    height: 75%;
 }
 
 @media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {

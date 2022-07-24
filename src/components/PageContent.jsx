@@ -67,6 +67,7 @@ const PageContent = [
                     </div>
                 </div>
                 <div className = 'col-5'>
+                    <div></div>
                     <div className = 'DL'></div>
                 </div>
             </div>
@@ -93,7 +94,7 @@ const PageContent = [
                 </div>
                 <div className = 'row'>
                     <div className = 'col-6'>
-                        <p>Tớ muốn được cùng gia đình lạc vào Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. Đươc check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
+                        <p>Tớ muốn được cùng gia đình lạc vào Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
                     </div>
                     <div className = 'col-6'></div>
                 </div>
@@ -361,7 +362,7 @@ const PageContent = [
             <div></div>
           <h1>Enjoy</h1>
           <h1>the festivals</h1>
-          <p>Nhật Bản có rất nhiều các lễ hội diễn ra trong năm. Tớ muốn được tận hưởng không khí lễ hội như trong các bộ phim</p>
+          <p>Nhật Bản có rất nhiều các lễ hội diễn ra trong năm. Tớ muốn được đến đây và tận hưởng không khí lễ hội như trong các bộ phim</p>
         `,
     },
     {
@@ -376,15 +377,10 @@ const PageContent = [
                     <p>Đến Nhật Bản thì chẳng thể bỏ qua suối nước nóng rồi. </p>
                     <div></div>
                 </div>
+                <h1>And more</h1>
+                <h1>to do</h1>
             </div>
         `,
-        'back_content': `
-          <div></div>
-        `
-    },
-    {
-        'id': 'p18',
-        'front_content': ``,
         'back_content': `
             <div></div>
             <div></div>
@@ -392,24 +388,29 @@ const PageContent = [
         `
     },
     {
-        'id': 'p19',
+        'id': 'p18',
         'front_content': `
             <div></div>
             <img src = 'img/beautiful-cityscape-bangkok-highway-bridge-thailand (2).jpg'>
         `,
         'back_content': `
-            <p>Khi hoàn thành cuốn Album này thì tớ mới ngỡ ra là cả gia đình tớ đã bỏ lỡ quá nhiều chuyến đi với nhau
-            trong suốt 20 năm.
-            Dù là vẫn sống chung dưới một ngôi nhà, ngày ngày nhìn thấy nhau nhưng mà cả gia đình lại thiếu những 
-            kỷ niệm đi chơi. Cuộc sống gia đình đã đỡ khó khăn hơn trước nhiều, cũng có thể dành 1 ít tiền cho 1 chuyến 
-            đi nhỏ tới Vũng Tàu nhưng mà vì </p>            
+            <p>Khi hoàn thành cuốn Album này thì tớ mới ngỡ ra là cả gia đình tớ đã bỏ lỡ quá nhiều chuyến đi với nhau trong suốt 20 năm.
+            Dù là vẫn sống chung dưới một ngôi nhà, ngày ngày nhìn thấy nhau nhưng mà cả gia đình lại thiếu những kỷ niệm cùng nhau đi đây đi đó. 
+            Dù cả nhà đang sống ở nơi Sài Gòn hoa lệ như vậy nhưng mà suốt ngày chỉ quanh quẩn ở nơi góc nhà.
+            Cũng lâu rồi gia đình chưa có cùng nhau 1 bữa cơm ...
+            Có lẽ gia đình tớ nên thay đổi, thay đổi từ việc có thể dành ra ít nhất một ngày trong tuần để có thể cho nhau khoảng thời gian của mỗi người.
+            Cuộc sống gia đình đã đỡ khó khăn hơn trước nhiều nên cũng có thể đi một chuyến đi nhỏ tới Vũng Tàu để cho nhau những kỷ niệm đẹp, những bức ảnh có 
+            thể lưu giữ.</p>            
         `
     },
     {
-        'id': 'p20',
+        'id': 'p19',
         'front_content': `
+            <h2>THANK YOU</h2>
+            <p>Cảm ơn SheCodes đã cho ra một chủ đề hết sức là tuyệt vời. Một chủ đề khiến cho mình nhận ra nhiều điều, nhận ra rằng Việt Nam có rất nhiều nơi để đi, rất
+            nhiều nơi mà chúng ta có thể cùng gia đình xây dựng nên những ký ức đẹp.</p>
         `,
-        'back_content': `<h1>THANK YOU</h1>`,
+        'back_content': `<h1>The end</h1>`,
     },
     {
         'id': 'back-cover',

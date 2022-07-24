@@ -118,7 +118,6 @@ i {
     z-index: 1;
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
-    /*border-left: 1px solid #ecb3b9;*/
 }
 
 .back {
@@ -157,7 +156,7 @@ img {
     font-size: x-small;
     font-style: normal;
     }
-    h1 {font-size: 60px;}
+    h1 {font-size: 50px;}
     h2 {font-size: large;}
 
     button {

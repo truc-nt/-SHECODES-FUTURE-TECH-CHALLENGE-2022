@@ -1,3 +1,15 @@
+#p17 .front-content h1:nth-child(3) {
+    position: absolute;
+    top: 10px;
+}
+
+#p17 .front-content h1:nth-child(4) {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+
+}
+
 #p17 .front-content > .row {
     height: 70%;
 }
