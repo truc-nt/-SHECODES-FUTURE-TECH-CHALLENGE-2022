@@ -1,0 +1,15 @@
+#p1 .back-content{
+    background-image: url('../img/VT.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+#p1 .back-content h1 {
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    color: #e19b01;
+}
+
+

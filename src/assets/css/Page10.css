@@ -1,0 +1,61 @@
+#p10 .front-content .row:first-child div {
+    background-image: url('../img/HL (4).jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: left center;
+    height: 100%;
+}
+
+#p10 .front-content .row:nth-child(2) div {
+    background-image: url('../img/HL (5).jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: left center;
+    height: 100%;
+}
+
+#p10 .front-content .row:nth-child(2) div:first-child {
+    background-image: url('../img/HL (1).jpg');
+}
+
+#p10 .front-content .row:nth-child(3) div {
+    background-image: url('../img/HL (3).jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: left center;
+    height: 100%;
+}
+
+#p10 .row {
+    height: 33.3%;
+    margin: 2px;
+}
+
+#p10 .front-content .row > * {
+    margin: 4px;
+    height: 100%;
+}
+
+#p10 .back-content {
+    background-image: url('../img/HA (4).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+
+#p10 .back-content h1{
+    color: #f00e03;
+}
+#p10 .back-content h2 {
+    font-size: 25px;
+    position:absolute;
+    color: #fbe7d5;
+    top: 20px;
+    left: 20px;
+}
+
+@media screen and (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
+    #p10 .back-content h2 {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,77 @@
+#p3 .back-content > .row, #p3 .back-content .col-7, #p3 .back-content .col-6 {
+    height: 100%;
+}
+
+#p3 .back-content .col-7 > div:first-child {
+    background-image: url('../img/DL (10).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    height: 39%;
+    margin-bottom: 5px;
+}
+
+#p3 .back-content .row .row {
+    height: 60%;
+}
+
+.DL{
+    height: 50%;
+}
+
+#p3 .back-content .col-5 {
+    height: 25%;
+    align-self: flex-end;
+}
+
+#p3 .back-content > .row > .col-7 > .row:nth-child(2) > div:first-child{
+    background-image: url('../img/DL (8).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+    height: 100%;
+}
+
+.DL {
+    background-image: url('../img/DL (13).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; 
+}
+
+.DL:nth-child(2) {
+    background-image: url('../img/DL (11).jpg');
+}
+.col-5 .DL {
+    background-image: url('../img/DL (12).jpg');
+    height: 100%;
+}
+
+#p3 h1 {
+    position: absolute; 
+}
+
+#p3 .back-content h1 {
+    transform: rotate(21deg);
+    color: #40b70c;
+}
+
+#p3 .back-content div:nth-child(2) {
+    padding-left: 6px;
+}
+
+#p3 .back-content .row .row {
+    padding-left: 0;
+}
+
+@media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
+    #p3 .front-content img:first-child {
+        top: 10px;
+        left: 10px;
+    }
+    
+    #p3 .front-content img:nth-child(2) {
+        bottom: 10px;
+        right: 10px;
+    }
+}

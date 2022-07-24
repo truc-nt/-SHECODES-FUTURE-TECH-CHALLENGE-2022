@@ -1,0 +1,97 @@
+#p6 .front-content {
+    padding: 0;
+    padding-right: 50px;
+    background-color: black;
+    color: wheat;
+}
+
+#p6 .front-content .row, #p6 .front-content .col-4 {
+    height: 100%
+}
+
+
+/*#p6 .front-content > .row .col-4:nth-child(1) {
+    padding: 20px
+}*/
+
+#p6 .front-content p {
+    padding: 20px;
+}
+
+#p6 .front-content > .row .col-4:nth-child(2) div:first-child{
+    background-image: url('../img/DL (1).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50%;
+}
+
+
+#p6 .front-content > .row .col-4:nth-child(2) div:nth-child(2){
+    background-image: url('../img/DL (3).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50%;
+}
+
+#p6 .front-content > .row .col-4:nth-child(3) .row:first-child{
+    background-image: url('../img/DL (2).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 33.3%; 
+}
+
+#p6 .front-content > .row .col-4:nth-child(3) .row:nth-child(2){
+    background-image: url('../img/DL (4).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 33.3%; 
+}
+
+#p6 .front-content > .row .col-4:nth-child(3) .row:nth-child(3){
+    background-image: url('../img/DL (5).jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 33.3%; 
+}
+
+#p6 .back-content {
+    padding-right: 0;   
+}
+
+#p6 .back-content img{
+    height: 100%;
+}
+
+#p6 .back-content p {
+    position:absolute;
+    bottom: 60px;
+    color: white;
+}
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p6 .front-content p {
+        font-size: 12px;
+        padding:5px;
+    }
+}
+
+@media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
+    #p6 .front-content {
+        padding: 0;
+    }
+
+    #p6 .front-content p {
+        font-size: 9px;
+        padding:5px;
+    }
+
+    #p6 .back-content p {
+        bottom: 20px;
+        left: 15px;
+    }
+}

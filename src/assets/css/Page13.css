@@ -1,0 +1,48 @@
+#p13 .front-content {
+    background-image: url('../img/fuji-mountain-cherry-blossoms-spring-japan\ \(2\).jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover; 
+}
+
+#p13 .front-content {
+    padding: 0;
+    position: relative;
+}
+
+#p13 .front-content h2{
+    left: 0;
+}
+
+#p13 .back-content {
+    padding: 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#p13 .back-content img:first-child {
+    height: 100%;
+    width: auto !important;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#p13 .back-content p {
+    width: 50%;
+    padding: 30px;
+}
+
+
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p13 .back-content p {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
+    #p13 .back-content p {
+        padding: 10px;
+    }
+}

@@ -1,0 +1,71 @@
+#p12 .front-content h2 {
+    font-size: 90px;
+    position:absolute;
+}
+
+#p12 .front-content .row:nth-child(3) div {
+    background-image: url('../img/Cho Noi.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: left center;
+    height: 100%;
+}
+
+#p12 .front-content {
+    padding-left: 0;
+}
+
+#p12 .col-4 {
+    background: url('../img/Sapa.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#p12 .front-content > .row:nth-child(2) .col-4:first-child, #p12 .front-content > .row:nth-child(2) .col-4:nth-child(2) {
+    background-image: none;
+}
+
+#p12 .front-content > .row:nth-child(1) .col-4:nth-child(2) {
+    background-image: url('../img/Quang Ninh.jpg')
+}
+
+#p12 .front-content > .row:nth-child(1) .col-4:nth-child(3) {
+    background-image: url('../img/Ninh Binh.jpg')
+}
+
+#p12 .front-content > .row:nth-child(2) .col-4:nth-child(3) {
+    background-image: url('../img/Ca Mau.jpg')
+}
+
+#p12 .back-content{
+    background-image: url('../img/fuji-mountain-cherry-blossoms-spring-japan\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover; 
+}
+
+#p12 .back-content {
+    position: relative;
+}
+
+#p12 .back-content h2 {
+    right: 10px;
+}
+
+#p12 .back-content h2, #p13 .front-content h2 {
+    position: absolute;
+    top: 20px;
+    transform: rotate(2deg);
+    color: white;
+}
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p11 .back-content h2, #p12 .front-content h2 {
+        font-size: 68px;
+    } 
+}
+
+@media screen and (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
+    #p11 .back-content h2, #p12 .front-content h2 {
+        font-size: 49px;
+    } 
+}

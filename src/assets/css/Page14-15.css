@@ -1,0 +1,119 @@
+#p14 .front-content {
+    background-image: url('../img/cherry-blossom-with-soft-focus-sakura-season-spring (2).jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+#p14 .back-content img, #p14 .back-content div, #p15 .front-content img, #p15 .front-content div{
+    position: absolute;
+    height: auto;
+    width: auto;
+}
+
+#p14 .back-content h1, #p15 .front-content h1 {
+    position: absolute;
+    z-index: 1000;
+}
+
+#p14 .back-content div:first-child {
+    background: url('../img/cherry-blossoms-chidorigafuchi-park-tokyo-japan.jpg') no-repeat center center;
+    background-size: cover;
+    width: 81%;
+}    
+
+#p14 .back-content div:first-child, #p15 .front-content img:first-child {
+    top: 0;
+    left: 0;
+}
+
+#p14 .back-content img:nth-child(2), #p15 .front-content div:nth-child(3) {
+    top: 0;
+    right: 0;
+}
+
+#p14 .back-content div:nth-child(3), #p15 .front-content img:nth-child(2) {
+    bottom: 0;
+    left: 0;
+}
+
+#p14 .back-content div:nth-child(3) {
+    background: url('../img/red-traditional-light-pole-kifune-shrine-kyoto-japan.jpg') no-repeat center center;
+    background-size: cover;
+    width: 67%;
+} 
+
+#p15 .front-content div:nth-child(3) {
+    background: url('../img/beautiful-cherry-blossoms-tokyo-sky-tree-spring-tokyo-japan.jpg') no-repeat center center;
+    background-size: cover;
+    width: 62%;
+}
+
+#p14 .back-content img:nth-child(4) {
+    bottom: 0;
+    right: 0;
+}
+
+#p15 .front-content h1 {
+    left: 20px;
+    top: 250px;
+}
+
+#p14 .back-content h1 {right: 20px;}
+
+#p15 .front-content h1:nth-child(5) {
+    font-size: 80px;
+}
+ 
+#p14 .back-content div:first-child, 
+#p14 .back-content img:nth-child(2),
+#p15 .front-content img:nth-child(1)
+{height: 270px;}
+
+#p14 .back-content div:nth-child(3),
+#p14 .back-content img:nth-child(4), 
+#p15 .front-content img:nth-child(2) 
+{height: 220px;}
+
+#p15 .front-content div:nth-child(3) {height: 500px;}
+
+#p15 .front-content h1 {top: 250px;}
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p14 .back-content div:first-child,
+    #p14 .back-content img:nth-child(2),
+    #p15 .front-content img:nth-child(1) {height: 200px;}
+
+    #p14 .back-content div:nth-child(3),
+    #p14 .back-content img:nth-child(4), 
+    #p15 .front-content img:nth-child(2) {height: 160px;}
+
+    #p15 .front-content div:nth-child(3) {height: 375px;}
+
+    #p15 .front-content h1 {
+        top: 200px;
+    }
+}
+
+@media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px)  {
+    #p14 .back-content div:first-child,
+    #p14 .back-content img:nth-child(2),
+    #p15 .front-content img:nth-child(1) {height: 135px;}
+
+    #p14 .back-content div:nth-child(3),
+    #p14 .back-content img:nth-child(4), 
+    #p15 .front-content img:nth-child(2) {height: 110px;}
+
+    #p15 .front-content div:nth-child(3) {height: 250px;}
+
+    #p15 .front-content h1 {
+        top: 100px;
+    }
+}
+
+#p15 .back-content {
+    background-image: url('../img/seafood-udon-ramen.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+

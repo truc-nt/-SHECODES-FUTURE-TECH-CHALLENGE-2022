@@ -1,0 +1,37 @@
+#p17 .front-content > .row {
+    height: 70%;
+}
+
+#p17 .front-content .col-6{
+    height: 100%;
+}
+
+#p17 .front-content .col-6 > * {
+    height: 50%;
+}
+
+#p17 .front-content .col-6:first-child > div {
+    background: url('../img/outdoor-onsen-japan.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#p17 .front-content .col-6:nth-child(2) > div {
+    background: url('../img/tourist-wearing-japanese.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#p17 .front-content p {
+    padding:10px;
+}
+
+#p17 .back-content {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#p17 .back-content div {
+    background: url('../img/cherry-blossom.png') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
