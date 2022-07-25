@@ -12,11 +12,13 @@ const PageContent = [
     {
         'id': 'p1',
         'front_content':`
-            <h2>Hello, everyone!!</h2>
-            <p>My name is Truc. I am a person who doesn't either go out or travel much. 
-            Perhaps because of the nature of my parents' work, we don't have much free time 
-            and also a trip is quite expensive compared to my family's conditions.
-            My first and last family trip was in 2004 - a trip to Vung Tau.</p>
+            <h2>Hello, everyone</h2>
+            <p>Xin cho mình được xưng là tớ nha. Tớ tên là Trúc. Tớ là một người không
+            được đi chơi nhiều, du lịch thì càng không. Nguyên do có lẽ vì tính chất công việc
+            của ba mẹ tớ nên là cả gia đình không có nhiều thời gian rảnh dành cho nhau. Và cũng bởi
+            vì một chuyến đi chơi xa cũng khá là lớn so với điều kiện gia đình tớ.
+            Chuyến đi gia đình đầu tiên và cuối cùng của tớ là vào năm 2004 - một chuyến đi tới Vũng Tàu.
+            </p>
         `,
         'back_content':`
             <h1>Vung Tau</h1>
@@ -31,9 +33,9 @@ const PageContent = [
             <div className = 'row'>
                 <div className = 'col-6'></div>
                 <div className = 'col-6'>
-                    <p>This trip was too long ago and there were no smartphones at that time
-                    so we didn't take many photos. I only had two photos with my parents in that trip. 
-                    And I don't know why we don't have one picture together, but two separated pictures of each of them holding me. 
+                    <p>Chuyến đi này đã quá lâu rồi và thời đó thì chưa có phổ biến smartphone nên là cả gia đình
+                    cũng không có nhiều ảnh lắm. Tớ chỉ có tìm được có hai tấm ảnh chụp chung với ba mẹ tớ thôi.
+                    Tớ cũng không hiểu sao lại không có ảnh chụp chung cả nhà mà mỗi người lại bồng tớ mà chụp riêng nữa.
                     </p>
                 </div>
             </div>
@@ -42,17 +44,17 @@ const PageContent = [
             <div className = 'VT'></div>
             <div className = 'VT'></div>
             <h1>Little Me</h1>
-            <p>I was only 2-3 years old at that time, so I didn't have any memories of this Vung Tau trip.</p>
-            <p>But based on the photos, I guess I had a lot of fun with my family at Vung Tau.</p>
+            <p>Hồi đó, tớ chỉ mới có 2-3 tuổi thôi nên là tớ cũng chẳng có ký ức gì về chuyến đi đó hết.</p>
+            <p>Nhưng mà nhìn những bức ảnh chụp lúc đó, tớ đoán rằng tớ đã rất vui. Con nít mà, được đi đây đi đó là vui rồi.</p>
         `,
     },
     {
         'id': 'p3',
         'front_content': `
-            <p>As I said, this Vung Tau trip was my only family travel. 
-            It seems that my family is missing many trips together.
-            There are hundreds of beautiful places out there that I want to travel to with my family.
-            .</p>
+            <p>Chuyến đi Vũng Tàu đó là chuyến đi chơi xa duy nhất của gia đình tớ.
+            Giờ nghĩ lại thì có vẻ như là cả gia đình tớ đã bỏ lỡ nhiều chuyến đi với nhau.
+            Việt Nam có rất nhiều nơi tuyệt đẹp mà tớ muốn được nắm tay mọi người đi khám phá.
+            </p>
         `,
         'back_content': `
             <div className = 'row'>
@@ -78,23 +80,23 @@ const PageContent = [
         'id': 'p4',
         'front_content': `
             <div className = 'row'>
-                <p>Every time I ask my mom "Where do you want to go?". My mom often replies "Da Lat".
-                It's not because she has never been to Da Lat. The last time she went to Da Lat was 20 years ago with her old company.
-                She says that she liked the cold air of Da Lat. So if our family have a chance to travel, I want we can go to Da Lat.
-                I have also been to Da Lat with my high school but being here with my family will hit different.</p>
+                <p>Mỗi lần tớ hỏi mẹ "Mẹ muốn đi đâu?" thì mẹ tớ sẽ trả lời là Đà Lạt. Không phải vì mẹ chưa
+                từng được đi nhưng mà chuyến đi cuối cùng tới Đà Lạt của mẹ là 20 năm trước rồi. Mẹ nói rằng mẹ thích 
+                cái se lạnh trên Đà Lạt. Nên là nếu có cơ hội được đi du lịch, tớ muốn cùng gia đình đến Đà Lạt.
+                Tớ cũng từng được đi Đà Lạt với trường rồi nhưng mà đi với gia đình sẽ cho tớ một cảm giác khác.</p>
             </div>
             <div className = 'row'>
                 <div className = 'row'>
                     <div className = 'col-6'></div>
                     <div className = 'col-6'>
-                        <p> When I arrive at Da Lat, I want to come and see The Valley of Love. 
-                        Looking at some pictures of this place, I have to say: "How poetic this place is"
+                        <p> Khi tới Đà Lạt thì nơi đầu tiên tớ muốn tới nhất là Thung Lũng Tình Yêu.
+                        Tớ bị "đổ" không chỉ vì cái tên mà còn vì những vẻ đẹp nên thơ dù chỉ qua ảnh chụp.
                         </p>
                     </div>
                 </div>
                 <div className = 'row'>
                     <div className = 'col-6'>
-                        <p>Tớ muốn được cùng gia đình lạc vào Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
+                        <p>Ngoài ra, có một nơi cũng có vẻ đẹp thơ mộng khác là Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. Check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
                     </div>
                     <div className = 'col-6'></div>
                 </div>
@@ -112,9 +114,9 @@ const PageContent = [
                     </div>
                 </div>
                 <div className = 'col-5'>
-                    <img src = 'img/DL (1).jpg'>
+                    <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/DL (1).jpg'>
                 </div>
-                <p>Tới Đà Lạt rồi thi thì phải thử các trò mạo hiểm tại thác Datanla chứ nhỉ? Nói chứ, cả nhà ai cũng nhát nên chắc chỉ dám đi máng trượt trên không thôi.
+                <p>Tới Đà Lạt rồi thì phải thử các trò mạo hiểm tại thác Datanla chứ nhỉ? Nói chứ, cả nhà tớ ai cũng nhát nên chắc chỉ dám thử mỗi máng trượt trên không thôi.
             </div>
         `
     },
@@ -123,9 +125,10 @@ const PageContent = [
         'front_content': `
             <div className = 'row'>
                 <p>Cảnh đẹp Đà Lạt mà không được nhìn trọn từ trên không thì phải nói là rất tiếc. 
-                <p>Cả nhà sẽ cùng leo đến đỉnh của ngọn núi Langbiang. Cắm trại qua đêm tại nơi này nghe nói là rất tuyệt.</p>
+                <p>Không thể thiếu một chuyến cắm trại đêm rồi. Cả nhà sẽ cùng leo đến đỉnh của ngọn núi Langbiang, hòa mình vào thiên nhiên núi rừng, ngắm được toàn cảnh thành phố Đà Lạt 
+                và cùng nhau đóng trại ở đây ban đêm.</p>
                 <div className = 'col-7'>
-                    <img src = 'img/DL (2).jpg'>
+                    <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/DL (2).jpg'>
                 </div>
                 <div className = 'col-5'></div>
             </div>
@@ -166,14 +169,14 @@ const PageContent = [
             </div>
         `,
         'back_content': `
-            <img src = 'img/HN (2).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/HN (2).jpg'>
             <p>Nơi thứ hai tớ muốn đến là Hà Nội - thủ đô xinh đẹp của Việt Nam</p>
         `,
     },
     {
         'id': 'p7',
         'front_content': `
-            <img src = 'img/HN (3).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/HN (3).jpg'>
             <h1>Ha</h1>
             <h1>Noi</h1>
         `,
@@ -195,21 +198,18 @@ const PageContent = [
                 <div className = 'col-2'></div>
             </div>
             <div></div>
-            <p>Khám phá vẻ đẹp cổ kính của những thắng cảnh đã được nghe qua rất nhiều lần nhưng chưa bao giờ được thấy tận mắt</p>
+            <p>Khám phá vẻ đẹp cổ kính của những thắng cảnh mà tớ đã được nghe qua rất nhiều lần rồi nhưng chưa bao giờ được thấy tận mắt</p>
         `,
     },
     {
         'id': 'p8',
         'front_content': `
             <div className = 'row'>
-                <div className = 'col-2'></div>
-                <div className = 'col-8'>
-                    <div className = 'row'></div>
-                    <div className = 'row'></div>
-                    <div className = 'row'></div>
-                </div>
-                <div className = 'col-2'></div>
+                <div className = 'row'></div>
+                <div className = 'row'></div>
+                <div className = 'row'></div>
             </div>
+            <p>Nắm tay cùng nhau đi xem những nơi đã gắn bó lâu đời với Hà Nội</p>
         `,
         'back_content': `
         <div className = 'row'>
@@ -259,8 +259,9 @@ const PageContent = [
             </div>
         `,
         'back_content': `
-            <h2>There are more places I want to travel to with my family</h2>
+            <h2>Tớ vẫn còn rất nhiều nơi muốn cùng đi khám phá với cả nhà</h2>
             <h1>Hoi An</h1>
+            <h2>more</h2>
         `,
     },
     {
@@ -277,7 +278,7 @@ const PageContent = [
             <div className = 'row'>
                 <div className = 'col-4'></div>
                 <div className = 'col-4'></div>
-                <div className = 'col-4'><h2>An</h2></div>
+                <div className = 'col-4'><h2>And</h2></div>
             </div>
             <div className = 'row'>
                 <div className = 'col-4'></div>
@@ -296,7 +297,7 @@ const PageContent = [
                 <div className = 'col-4'></div>
             </div>
             <div className = 'row'>
-                <div className = 'col-4'><h2>d More...</h2></div>
+                <div className = 'col-4'><h2>More...</h2></div>
                 <div className = 'col-4'></div>
                 <div className = 'col-4'></div>
             </div>
@@ -305,17 +306,19 @@ const PageContent = [
             </div>
         `,
         'back_content':`
-            <h2>Moreover, There is a place which I </h2>
+            <h2>Và ngoài ra, có một nơi</h2>
         `
     },
     {
         'id': 'p13',
-        'front_content': '<h2>really really want to go</h2>',
+        'front_content': '<h2>mà tớ rất muốn đến một lần</h2>',
         'back_content': `
-            <img src = 'img/cherry-blossom-with-soft-focus-sakura-season-spring (1).jpg'>
-            <p>As you can see, I decorate my album as pink because I have passion for bloomy. So it can also be a reason why I am keen on cherry blossom - one of the symbol flowers in Japan.
-        Many people think pink is too emotional, timid and girly but for me, blowsy makes me feel love, peaceful and aggressive.
-        </p>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossom-with-soft-focus-sakura-season-spring (1).jpg'>
+            <p>Không biết mọi người có nhận ra không, tớ thiết kế album với màu chủ đạo là màu hồng vì tớ thích màu đó. Và có thể nó cũng là lí do
+            tớ thích hoa anh đào - một loài hoa có màu hồng nhẹ nhàng và là một trong những loài hoa biểu tượng của Nhật Bản.
+            Nhiều người có thể nghĩ rằng màu hồng quá nữ tính, quá cảm xúc nhưng với tớ, màu hồng cho tớ cảm nhận được tình yêu, sự yên bình và sự mạnh mẽ.
+            </p>
+            <p>Đến Nhật Bản rồi thì sẽ có rất nhiều thứ khác biệt để cả gia đình có thể khám phá</p>
         `,
     },
     {
@@ -325,17 +328,17 @@ const PageContent = [
         `,
         'back_content': `
             <div></div>
-            <img src = 'img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (1).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (1).jpg'>
             <div></div>
-            <img src = 'img/row-cherry-blossoms-trees-spring-kyoto-japan (1).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/row-cherry-blossoms-trees-spring-kyoto-japan (1).jpg'>
             <h1> Explore </h1>
           `
     },
     {
         'id': 'p15',
         'front_content': `
-          <img src = 'img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (2).jpg'>
-          <img src = 'img/row-cherry-blossoms-trees-spring-kyoto-japan (2).jpg'>
+          <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (2).jpg'>
+          <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/row-cherry-blossoms-trees-spring-kyoto-japan (2).jpg'>
           <div></div>
           <h1> the city </h1>`,
         'back_content': `
@@ -354,7 +357,7 @@ const PageContent = [
             </div>
           <h1>Taste</h1>
           <h1>the food</h1>
-          <div className = 'row'><p>Thưởng thức các món ăn đặc sản ở một đất nước khác là điều phải làm rồi. Tuy là các món ăn Nhật Bản xuất hiện khá nhiều ở Việt Nam rồi 
+          <div className = 'row'><p>Thưởng thức các món ăn đặc sản ở một đất nước khác là điều phải làm rồi. Tuy là các món ăn Nhật Bản xuất hiện khá nhiều ở Việt Nam 
           nhưng việc được ăn đồ do chính tay người bản xứ làm ra và ăn tại Nhật Bản phải có sự khác biệt chớ. </p></div>
         `,
         'back_content': `
@@ -362,7 +365,7 @@ const PageContent = [
             <div></div>
           <h1>Enjoy</h1>
           <h1>the festivals</h1>
-          <p>Nhật Bản có rất nhiều các lễ hội diễn ra trong năm. Tớ muốn được đến đây và tận hưởng không khí lễ hội như trong các bộ phim</p>
+          <p>Nhật Bản có rất nhiều các lễ hội diễn ra trong năm. Tớ muốn được đến đây và tận hưởng không khí lễ hội như trong các bộ phim.</p>
         `,
     },
     {
@@ -384,23 +387,29 @@ const PageContent = [
         'back_content': `
             <div></div>
             <div></div>
-            <img src = 'img/beautiful-cityscape-bangkok-highway-bridge-thailand (1).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/beautiful-cityscape-bangkok-highway-bridge-thailand (1).jpg'>
+            <h2>Và cũng còn rất nhiều nơi khác mà tớ muốn đến</h2>
+            <h1>Journey is made by</h1>
         `
     },
     {
         'id': 'p18',
         'front_content': `
             <div></div>
-            <img src = 'img/beautiful-cityscape-bangkok-highway-bridge-thailand (2).jpg'>
+            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/beautiful-cityscape-bangkok-highway-bridge-thailand (2).jpg'>
+            <h2>miễn là được đi cùng với gia đình của mình</h2>
+            <h1>the people you travel with</h1>
         `,
         'back_content': `
-            <p>Khi hoàn thành cuốn Album này thì tớ mới ngỡ ra là cả gia đình tớ đã bỏ lỡ quá nhiều chuyến đi với nhau trong suốt 20 năm.
+            <div>
+            <p>Khi hoàn thành cuốn này thì tớ mới ngỡ ra là cả gia đình tớ đã bỏ lỡ quá nhiều chuyến đi với nhau trong suốt 20 năm.
             Dù là vẫn sống chung dưới một ngôi nhà, ngày ngày nhìn thấy nhau nhưng mà cả gia đình lại thiếu những kỷ niệm cùng nhau đi đây đi đó. 
             Dù cả nhà đang sống ở nơi Sài Gòn hoa lệ như vậy nhưng mà suốt ngày chỉ quanh quẩn ở nơi góc nhà.
             Cũng lâu rồi gia đình chưa có cùng nhau 1 bữa cơm ...
             Có lẽ gia đình tớ nên thay đổi, thay đổi từ việc có thể dành ra ít nhất một ngày trong tuần để có thể cho nhau khoảng thời gian của mỗi người.
-            Cuộc sống gia đình đã đỡ khó khăn hơn trước nhiều nên cũng có thể đi một chuyến đi nhỏ tới Vũng Tàu để cho nhau những kỷ niệm đẹp, những bức ảnh có 
-            thể lưu giữ.</p>            
+            Cuộc sống gia đình đã đỡ khó khăn hơn trước nhiều nên cũng có thể đi một chuyến đi nhỏ tới Vũng Tàu để cho nhau những kỷ niệm về một chuyến đi chơi xa, 
+            Và mong rằng trong một tương lai không xa, tất cả ảnh trong quyển này có thể thay thế bằng chính ảnh của gia đình tớ</p>       
+            </div>     
         `
     },
     {
@@ -408,7 +417,7 @@ const PageContent = [
         'front_content': `
             <h2>THANK YOU</h2>
             <p>Cảm ơn SheCodes đã cho ra một chủ đề hết sức là tuyệt vời. Một chủ đề khiến cho mình nhận ra nhiều điều, nhận ra rằng Việt Nam có rất nhiều nơi để đi, rất
-            nhiều nơi mà chúng ta có thể cùng gia đình xây dựng nên những ký ức đẹp.</p>
+            nhiều nơi mà chúng ta có thể cùng gia đình xây dựng nên những ký ức đẹp. Dù bận rộn đến mấy, mỗi người trong gia đình nên đi chậm lại để có thể đi cùng nhau.</p>
         `,
         'back_content': `<h1>The end</h1>`,
     },
@@ -417,10 +426,6 @@ const PageContent = [
         'front_content': '',
         'back_content':`
             <h1>Thanh Truc</h1>
-            <div id = 'contact'>
-                <i class="fa fa-facebook-square" aria-hidden="true"></i>
-                <i class="fa fa-envelope-o" aria-hidden="true"></i>
-            </div>
         `,
     },
     {

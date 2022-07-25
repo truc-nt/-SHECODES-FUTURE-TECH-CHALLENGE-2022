@@ -92,7 +92,7 @@
 }
 
 #p16 .back-content h1:nth-child(3) {
-    top: 100px;
+    top: 50px;
     left: 10px;
 }
 
@@ -142,7 +142,7 @@
     }
 
     #p16 .back-content h1:nth-child(3) {
-        top: 36px;
+        top: 15px;
     }
 
     #p16 .back-content p:nth-child(5) {

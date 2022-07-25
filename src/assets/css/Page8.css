@@ -1,10 +1,13 @@
 #p8 .front-content {
     padding: 0;
-    background-color: #fa5456;
+    /*background-color: #fa5456;*/
 }
 
-#p8 .front-content > .row, #p8 .front-content .col-8{
-    height: 100%;
+#p8 .front-content > .row {
+    height: 60%;
+    background: url('../img/background HN.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 10px;
 }
 
 #p8 .front-content > .row .row, #p8 .back-content > .row{
@@ -16,14 +19,22 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    align-self: flex-end;
 }
 
 #p8 .front-content > .row .row:nth-child(2) {
     background-image: url('../img/HN (11).jpg');
+    align-self: center;
 }
 
 #p8 .front-content > .row .row:nth-child(3) {
     background-image: url('../img/HN (12).jpg');
+    align-self: flex-start;
+}
+
+#p8 .front-content p {
+    position:absolute;
+    top: 80px;
 }
 
 
@@ -53,4 +64,20 @@
 #p8 .back-content > .row:nth-child(3) > div:nth-child(3) {
     background-image: url('../img/HN (9).jpg');
     background-position: left center;
+}
+
+#p8 .front-content > .row {
+        height: 80%;
+}
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p8 .front-content p {
+        top: 30px;
+    }
+}
+
+@media (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
+    #p8 .front-content p {
+        top: 20px;
+    }
 }

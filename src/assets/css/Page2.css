@@ -114,7 +114,6 @@
 @media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
     #p2 .front-content p {
         padding: 10px;
-        font-size: x-small;
     }
 
     #p2 .back-content .VT:first-child {

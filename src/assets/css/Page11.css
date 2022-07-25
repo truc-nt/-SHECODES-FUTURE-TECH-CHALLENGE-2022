@@ -11,15 +11,15 @@
 }
 #p11 .front-content h2 {
     font-size: 50px;
-    position:absolute;
+    position: absolute;
     color: #fbe7d5;
-    bottom: 20px;
-    right: 20px;
-    transform: rotate(-40deg);
+    bottom: 30px;
+    right: 30px;
+    transform: rotate(-10deg);
 }
 
 #p11 .back-content h2 {
-    font-size: 90px;
+    font-size: 80px;
 }
 
 

@@ -37,7 +37,7 @@
 }
 
 #p10 .back-content {
-    background-image: url('../img/HA (4).jpg');
+    background-image: url('../img/HA.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -46,7 +46,7 @@
 #p10 .back-content h1{
     color: #ffb99b;
 }
-#p10 .back-content h2 {
+#p10 .back-content h2:first-child {
     font-size: 25px;
     position:absolute;
     color: #fbe7d5;
@@ -54,8 +54,17 @@
     left: 20px;
 }
 
+#p10 .back-content h2:nth-child(3) {
+    font-size: 50px;
+    position: absolute;
+    color: #fbe7d5;
+    bottom: 50px;
+    left: 50px;
+    transform: rotate(30deg);
+}
+
 @media screen and (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
-    #p10 .back-content h2 {
+    #p10 .back-content h2:first-child {
         font-size: 16px;
     }
 }

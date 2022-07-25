@@ -12,12 +12,13 @@
 
 #p13 .front-content h2{
     left: 0;
+    top: 50px;
 }
 
 #p13 .back-content {
     padding: 0;
     align-items: flex-start;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 #p13 .back-content img:first-child {
@@ -39,9 +40,18 @@
     #p13 .back-content p {
         padding: 20px;
     }
+
+    #p13 .front-content h2 {
+        top: 30px;
+    }
 }
 
-@media screen and (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
+@media (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
+    #p13 .front-content h2 {
+        top: 27px;
+    }
+
+
     #p13 .back-content p {
         padding: 10px;
     }

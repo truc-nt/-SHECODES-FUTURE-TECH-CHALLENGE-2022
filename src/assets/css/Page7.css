@@ -62,7 +62,7 @@
 #p7 .back-content > div:nth-child(3) {
     position:absolute;
     z-index: 0;
-    height: 200px;
+    height: 300px;
     width: 100%;
     background-image: url('../img/background\ HN.jpg');
     background-repeat: no-repeat;
@@ -97,7 +97,7 @@
     }
 }
 
-@media screen and  (max-width: 375px), (min-width: 500px) and (max-width: 700px) {
+@media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
     #p7 .front-content img:first-child {
         height: 92%;
         width: auto;
@@ -111,11 +111,16 @@
     #p7 .front-content h1:nth-child(3) {
         right: 30px;
         bottom: 60px;
+        
     }
 
     #p7 .back-content p:nth-child(4) {
         position:absolute;
-        bottom: 0px;
+        bottom: 10px;
         padding: 10px 5px 2px 5px;
+    }
+
+    #p7 .back-content > div:nth-child(3) {
+        height: 200px;
     }
 }

@@ -21,7 +21,7 @@ h1 {
     font-size: 100px;
 }
 h2 {
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Garamond, serif;
     font-size: xx-large;
 }
 
@@ -43,14 +43,17 @@ i {
     cursor: pointer;
 }
 
-#bg-lg, #bg-sm {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body {
     background-image: url('../img/Cherry_Blossom_45_B.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#bg-lg, #bg-sm {
+    height: 96vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
 }
 
@@ -139,7 +142,7 @@ img {
         width: 375px;
         height: 375px;
     }
-    p {font-size: small;}
+    p {font-size: 11px;}
     h1 {font-size: 80px;}
     h2 {font-size: x-large;}
 }
@@ -153,8 +156,8 @@ img {
     .front-content, .back-content {padding: 10px;}
 
     p {
-    font-size: x-small;
-    font-style: normal;
+        font-size: 9px;
+        font-style: normal;
     }
     h1 {font-size: 50px;}
     h2 {font-size: large;}
@@ -164,8 +167,21 @@ img {
     }
 }
 
-  
-  
+#footer {
+    height: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#footer button {
+    font-size: 20px;
+    padding: 0 10px 0 10px;
+    margin: 0;
+}
+
+#footer > p {
+    color: grey;
+}
   
   
   

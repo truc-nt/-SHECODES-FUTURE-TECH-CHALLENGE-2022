@@ -38,7 +38,7 @@
 
 #p17 .back-content {
     padding-right: 0;
-    padding-left: 0;
+    align-items: flex-start; 
 }
 
 #p17 .back-content div {
@@ -46,4 +46,68 @@
     background-size: cover;
     height: 100%;
     width: 100%;
+}
+
+#p17 .back-content h2 {
+    position:absolute;
+    top: 20px;
+    color: pink;
+}
+
+#p17 .back-content h1, #p18 .front-content h1 {
+    position: absolute;
+    font-size: 48px;
+    transform: rotate(10deg);
+}
+
+#p17 .back-content h1 {
+    left: 200px;
+    top: 200px;
+}
+
+#p18 .front-content h1 {
+    bottom: 148px;
+    left: 8px;
+}
+
+#p18 .front-content h2 {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: pink;
+}
+
+@media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
+    #p17 .back-content h1 {
+        left: 120px;
+        top: 150px;
+        font-size: 38px;
+    }
+
+    #p18 .front-content h1 {
+        left: 8px;
+        top: 210px;
+        font-size: 38px;
+    }
+
+    #p18 .front-content h2 {
+        position: absolute;
+        bottom: 20px;
+        left: 30px;
+        color: pink;
+    }
+}
+
+@media (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
+    #p17 .back-content h1 {
+        left: 60px;
+        top: 80px;
+        font-size: 28px;
+    }
+
+    #p18 .front-content h1 {
+        left: 8px;
+        top: 120px;
+        font-size: 28px;
+    }
 }

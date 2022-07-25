@@ -60,15 +60,11 @@
 }
 
 #p4 .back-content p:nth-child(3) {
-    width: 260px;
+    width: 350px;
     bottom: 40px;
 }
 
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
-    #p4 .front-content > .row p:first-child {
-        font-size: 11px;
-    }
-
     #p4 .back-content p:nth-child(3) {
         width: 230px;
         bottom: 20px;
@@ -81,9 +77,9 @@
         padding: 3px;
     }
 
-    #p4 .front-content > .row p:first-child {
+    /*#p4 .front-content > .row p:first-child {
         font-size: 8px;
-    }
+    }*/
 
     #p4 .back-content p:nth-child(3) {
         width: 230px;
