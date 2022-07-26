@@ -58,6 +58,10 @@
     }
 }
 
+#heartbeat-container .modal {
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
 #heartbeat-container .modal p {
     text-align: justify;
 }

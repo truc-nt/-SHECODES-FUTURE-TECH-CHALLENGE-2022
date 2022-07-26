@@ -60,6 +60,10 @@ const App = () => {
     }  
   })
   /* */
+  window.onerror = () => {
+    window.location.reload();
+  }
+
   const [showModal, setOpenModal] = useState(false)
   return (
     <div>
