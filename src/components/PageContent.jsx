@@ -424,6 +424,11 @@ const PageContent = [
         'front_content': '',
         'back_content':`
             <h1>Thanh Truc</h1>
+            <div id = 'contact'>
+                <a href="mailto:truc.ntw@gmail.com">
+                    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                </a>
+            </div>
         `,
     },
     {

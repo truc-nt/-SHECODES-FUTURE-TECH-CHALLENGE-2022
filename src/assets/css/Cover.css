@@ -27,6 +27,10 @@
     bottom: 10px;
 }
 
+#back-cover a {
+    color: black;
+}
+
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
     #front-cover .front-content h1 {
         right: 10px;
