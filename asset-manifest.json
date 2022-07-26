@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.e5e42378.css",
-    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.dd1f2560.js",
+    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.f2615059.css",
+    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.16b2a0a2.js",
     "static/js/787.9ef2590c.chunk.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js",
     "static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.60daa57df82a53b9c11b.jpg",
     "static/media/sculpture-city-long-exposure-complex-amazing.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/sculpture-city-long-exposure-complex-amazing.3d3ec8c1e22c25894fc3.jpg",
@@ -90,12 +90,12 @@
     "static/media/background HN.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/background HN.2360ff02a2ec8ad36b28.jpg",
     "static/media/logo.svg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/index.html",
-    "main.e5e42378.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.e5e42378.css.map",
-    "main.dd1f2560.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.dd1f2560.js.map",
+    "main.f2615059.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.f2615059.css.map",
+    "main.16b2a0a2.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.16b2a0a2.js.map",
     "787.9ef2590c.chunk.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5e42378.css",
-    "static/js/main.dd1f2560.js"
+    "static/css/main.f2615059.css",
+    "static/js/main.16b2a0a2.js"
   ]
 }
