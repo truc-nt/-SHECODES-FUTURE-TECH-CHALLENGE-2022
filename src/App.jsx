@@ -28,12 +28,44 @@ const Modal = (props) => {
     );
 }
 
+function debounce(func, ms) {
+  let timer
+  return _ => {
+    clearTimeout(timer)
+    timer = setTimeout(_ => {
+      timer = null
+      func.apply(this, arguments)
+    }, ms)
+  }
+}
+
 const App = () => {
+  /*rerender when resize browser*/
+  const [dimesion, setDimension] = useState({
+    height: window.innerHeight,
+    width: window.innerWidth
+  })
+
+  React.useEffect(() => {
+    const handleResize = debounce(() => {
+      setDimension({
+        height: window.innerHeight,
+        width: window.innerWidth
+      })
+    }, 1000)
+
+    window.addEventListener('resize', handleResize)
+    return _ => {
+      window.removeEventListener('resize', handleResize)
+    }  
+  })
+  /* */
   const [showModal, setOpenModal] = useState(false)
   return (
     <div>
       <Album></Album>
       <div id = 'footer'>
+            <p style = {{display: window.innerWidth <= 500 ? 'inline-block' : 'none' }}>Nếu có thể, bạn hãy xoay màn hình ngang để xem trọn vẹn hơn nha!!!</p>
             <p>All image credits are listed here</p>
             <button  onClick={() => setOpenModal(true)}><i className ="fa fa-list-alt"></i></button>
             {showModal && <Modal setOpenModal={setOpenModal} ImageInfo = {ImageInfo} />}

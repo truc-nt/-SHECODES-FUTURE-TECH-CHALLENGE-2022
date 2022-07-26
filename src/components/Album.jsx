@@ -23,39 +23,8 @@ import {LargePapers, SmallPapers} from './Paper'
 import PageContent  from './PageContent'
 import Heartbeat from './Heartbeat'
 import React, {useState, useRef} from 'react'
-
-function debounce(func, ms) {
-    let timer
-    return _ => {
-      clearTimeout(timer)
-      timer = setTimeout(_ => {
-        timer = null
-        func.apply(this, arguments)
-      }, ms)
-    }
-  }
   
 const Album = () => {
-    /*rerender when resize browser*/
-    const [dimesion, setDimension] = useState({
-      height: window.innerHeight,
-      width: window.innerWidth
-    })
-  
-    React.useEffect(() => {
-      const handleResize = debounce(() => {
-        setDimension({
-          height: window.innerHeight,
-          width: window.innerWidth
-        })
-      }, 1000)
-  
-      window.addEventListener('resize', handleResize)
-      return _ => {
-        window.removeEventListener('resize', handleResize)
-      }  
-    })
-    /* */
     const [currentLocation, setCurrentLocation] = useState(0)
     const [currentIndex, setCurrentIndex] = useState(0)
     const [showHeart, setOpenHeart] = useState(false)
