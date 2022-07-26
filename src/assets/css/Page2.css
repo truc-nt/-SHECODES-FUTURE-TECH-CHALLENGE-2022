@@ -95,7 +95,6 @@
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
     #p2 .front-content p {
         padding: 10px;
-        font-size: small;
     }
 
     #p2 .back-content p:nth-child(4) {
