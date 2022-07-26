@@ -81,13 +81,9 @@
     }
 
     #p5 .front-content p:nth-child(2) {
-        width: 200px;
+        width: 280px;
         bottom: 20px;
         right: 50px;
-    }
-
-    #p5 .back-content p {
-        font-size: 11px;
     }
 
     #p5 .back-content > .row > p:nth-child(2), #p5 .back-content > .row > p:nth-child(3) {
@@ -117,7 +113,7 @@
     }
 
     #p5 .front-content p:nth-child(2) {
-        width: 180px;
+        width: 200px;
         bottom: 10px;
         right: 10px;
     }
@@ -132,7 +128,7 @@
     }
 
     #p5 .back-content > .row > p:nth-child(3) {
-        bottom: 10px;
-        right: 5px;
+        bottom: 40px;
+        right: 3px;
     }
 }

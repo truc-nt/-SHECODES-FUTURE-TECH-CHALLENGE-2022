@@ -11,45 +11,48 @@
     height: 100%; 
     position: relative;   
 }
-#front-cover .front-content h2 {
+#front-cover .front-content h1 {
     position: absolute;
     color: white;
     transform: rotate(343deg);
     font-weight: bold;
     right: 120px;
     bottom: 40px;
-    font-family: 'Brush Script MT', cursive;
     font-size: 50px;
     z-index: 0;
 }
 
-#front-cover .front-content h2:nth-child(2) {
+#front-cover .front-content h1:nth-child(2) {
     right: 5px;
     bottom: 10px;
 }
 
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
-    #front-cover .front-content h2 {
+    #front-cover .front-content h1 {
         right: 10px;
         bottom: 80px;
         font-size: 30px;
     }
 
     #back-cover h1 {
-        font-size: 50px;
+        font-size: 30px;
     }
 }
 
 @media screen and (max-width: 375px), (min-width: 501px) and (max-width: 700px) {
-    #front-cover .front-content h2 {
+    #front-cover .front-content h1 {
         right: 10px;
         bottom: 50px;
-        font-size: 25px;
+        font-size: 18px;
     }
     
-    #front-cover .front-content h2:nth-child(2) {
+    #front-cover .front-content h1:nth-child(2) {
         right: 0px;
         bottom: 20px;
+    }
+
+    #back-cover h1 {
+        font-size: 20px;
     }
 }
 

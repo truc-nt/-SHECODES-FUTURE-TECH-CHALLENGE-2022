@@ -127,14 +127,14 @@
     }
 
     #p2 .back-content p:nth-child(4) {
-        top: 10px;
+        top: 25px;
         right: 5px;
         width: 90px
     }
     
     #p2 .back-content p:nth-child(5) {
         left: 10px;
-        bottom: 20px;
+        bottom: 25px;
         width: 100px
     }
 }

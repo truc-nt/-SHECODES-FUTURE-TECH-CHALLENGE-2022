@@ -11,7 +11,6 @@
 }
 
 p {
-    /*font-family: Garamond, serif;*/
     font-family: 'Times New Roman', serif;
     font-style: oblique;
 }
@@ -142,7 +141,7 @@ img {
         width: 375px;
         height: 375px;
     }
-    p {font-size: 11px;}
+    p {font-size: 10px;}
     h1 {font-size: 80px;}
     h2 {font-size: x-large;}
 }
@@ -156,7 +155,7 @@ img {
     .front-content, .back-content {padding: 10px;}
 
     p {
-        font-size: 9px;
+        font-size: 7px;
         font-style: normal;
     }
     h1 {font-size: 50px;}

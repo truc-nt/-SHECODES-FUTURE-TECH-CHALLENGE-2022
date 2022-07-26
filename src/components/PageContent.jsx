@@ -3,8 +3,8 @@ const PageContent = [
         'id': 'front-cover',
         'front_content':`
             <div id = 'front-cover__img'>
-                <h2>My Future Plan</h2>
-                <h2>For the Nguyen Family</h2>
+                <h1>My Future Plan</h1>
+                <h1>For the Nguyen Family</h1>
             </div>
         `,
         'back_content': ``
@@ -86,20 +86,18 @@ const PageContent = [
                 Tớ cũng từng được đi Đà Lạt với trường rồi nhưng mà đi với gia đình sẽ cho tớ một cảm giác khác.</p>
             </div>
             <div className = 'row'>
-                <div className = 'row'>
-                    <div className = 'col-6'></div>
-                    <div className = 'col-6'>
-                        <p> Khi tới Đà Lạt thì nơi đầu tiên tớ muốn tới nhất là Thung Lũng Tình Yêu.
+                <div className = 'col-6'></div>
+                <div className = 'col-6'>
+                    <p> Khi tới Đà Lạt thì nơi đầu tiên tớ muốn tới nhất là Thung Lũng Tình Yêu.
                         Tớ bị "đổ" không chỉ vì cái tên mà còn vì những vẻ đẹp nên thơ dù chỉ qua ảnh chụp.
-                        </p>
-                    </div>
+                    </p>
                 </div>
-                <div className = 'row'>
-                    <div className = 'col-6'>
-                        <p>Ngoài ra, có một nơi cũng có vẻ đẹp thơ mộng khác là Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. Check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
-                    </div>
-                    <div className = 'col-6'></div>
+            </div>
+            <div className = 'row'>
+                <div className = 'col-6'>
+                    <p>Ngoài ra, có một nơi cũng có vẻ đẹp thơ mộng khác là Làng cổ tích Đà Lạt. Nơi này được lấy ý tưởng từ ngôi làng cổ tích Hobbit ở New Zealand. Check-in ở đây thì chúng ta có những tấm hình sống ảo tuyệt vời rồi còn gì.</p>
                 </div>
+                <div className = 'col-6'></div>
             </div>
         `,
         'back_content': `
@@ -114,7 +112,7 @@ const PageContent = [
                     </div>
                 </div>
                 <div className = 'col-5'>
-                    <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/DL (1).jpg'>
+                    <img src = 'img/DL (1).jpg'>
                 </div>
                 <p>Tới Đà Lạt rồi thì phải thử các trò mạo hiểm tại thác Datanla chứ nhỉ? Nói chứ, cả nhà tớ ai cũng nhát nên chắc chỉ dám thử mỗi máng trượt trên không thôi.
             </div>
@@ -128,7 +126,7 @@ const PageContent = [
                 <p>Không thể thiếu một chuyến cắm trại đêm rồi. Cả nhà sẽ cùng leo đến đỉnh của ngọn núi Langbiang, hòa mình vào thiên nhiên núi rừng, ngắm được toàn cảnh thành phố Đà Lạt 
                 và cùng nhau đóng trại ở đây ban đêm.</p>
                 <div className = 'col-7'>
-                    <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/DL (2).jpg'>
+                    <img src = 'img/DL (2).jpg'>
                 </div>
                 <div className = 'col-5'></div>
             </div>
@@ -169,14 +167,14 @@ const PageContent = [
             </div>
         `,
         'back_content': `
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/HN (2).jpg'>
+            <img src = 'img/HN (2).jpg'>
             <p>Nơi thứ hai tớ muốn đến là Hà Nội - thủ đô xinh đẹp của Việt Nam</p>
         `,
     },
     {
         'id': 'p7',
         'front_content': `
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/HN (3).jpg'>
+            <img src = 'img/HN (3).jpg'>
             <h1>Ha</h1>
             <h1>Noi</h1>
         `,
@@ -313,7 +311,7 @@ const PageContent = [
         'id': 'p13',
         'front_content': '<h2>mà tớ rất muốn đến một lần</h2>',
         'back_content': `
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossom-with-soft-focus-sakura-season-spring (1).jpg'>
+            <img src = 'img/cherry-blossom-with-soft-focus-sakura-season-spring (1).jpg'>
             <p>Không biết mọi người có nhận ra không, tớ thiết kế album với màu chủ đạo là màu hồng vì tớ thích màu đó. Và có thể nó cũng là lí do
             tớ thích hoa anh đào - một loài hoa có màu hồng nhẹ nhàng và là một trong những loài hoa biểu tượng của Nhật Bản.
             Nhiều người có thể nghĩ rằng màu hồng quá nữ tính, quá cảm xúc nhưng với tớ, màu hồng cho tớ cảm nhận được tình yêu, sự yên bình và sự mạnh mẽ.
@@ -328,17 +326,17 @@ const PageContent = [
         `,
         'back_content': `
             <div></div>
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (1).jpg'>
+            <img src = 'img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (1).jpg'>
             <div></div>
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/row-cherry-blossoms-trees-spring-kyoto-japan (1).jpg'>
+            <img src = 'img/row-cherry-blossoms-trees-spring-kyoto-japan (1).jpg'>
             <h1> Explore </h1>
           `
     },
     {
         'id': 'p15',
         'front_content': `
-          <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (2).jpg'>
-          <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/row-cherry-blossoms-trees-spring-kyoto-japan (2).jpg'>
+          <img src = 'img/cherry-blossoms-spring-chureito-pagoda-fuji-mountain-japan (2).jpg'>
+          <img src = 'img/row-cherry-blossoms-trees-spring-kyoto-japan (2).jpg'>
           <div></div>
           <h1> the city </h1>`,
         'back_content': `
@@ -387,7 +385,7 @@ const PageContent = [
         'back_content': `
             <div></div>
             <div></div>
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/beautiful-cityscape-bangkok-highway-bridge-thailand (1).jpg'>
+            <img src = 'img/beautiful-cityscape-bangkok-highway-bridge-thailand (1).jpg'>
             <h2>Và cũng còn rất nhiều nơi khác mà tớ muốn đến</h2>
             <h1>Journey is made by</h1>
         `
@@ -396,7 +394,7 @@ const PageContent = [
         'id': 'p18',
         'front_content': `
             <div></div>
-            <img src = 'SHECODES-FUTURE-TECH-CHALLENGE-2022/img/beautiful-cityscape-bangkok-highway-bridge-thailand (2).jpg'>
+            <img src = 'img/beautiful-cityscape-bangkok-highway-bridge-thailand (2).jpg'>
             <h2>miễn là được đi cùng với gia đình của mình</h2>
             <h1>the people you travel with</h1>
         `,
