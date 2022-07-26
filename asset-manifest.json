@@ -1,11 +1,9 @@
 {
   "files": {
-    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.ffae4dc9.css",
-    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.81d180a5.js",
+    "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.2711dec6.css",
+    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.46d4278f.js",
     "static/js/787.9ef2590c.chunk.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js",
-    "static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.60daa57df82a53b9c11b.jpg",
     "static/media/fuji-mountain-cherry-blossoms-spring-japan (2).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/fuji-mountain-cherry-blossoms-spring-japan (2).186710420a776f9a7afe.jpg",
-    "static/media/red-traditional-light-pole-kifune-shrine-kyoto-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/red-traditional-light-pole-kifune-shrine-kyoto-japan.0d4beb6581aaf4c08f98.jpg",
     "static/media/DL (10).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (10).d8ee0da79360c6f47019.jpg",
     "static/media/beautiful-cherry-blossoms-tokyo-sky-tree-spring-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/beautiful-cherry-blossoms-tokyo-sky-tree-spring-tokyo-japan.05ba9bb1638fe646978b.jpg",
     "static/media/cherry-blossom-with-soft-focus-sakura-season-spring (2).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossom-with-soft-focus-sakura-season-spring (2).dd38d290d6a12532b566.jpg",
@@ -28,12 +26,14 @@
     "static/media/HN (9).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (9).61236230c4d2a4179dd8.jpg",
     "static/media/HN (1).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (1).bfad04488678d078dfb7.jpg",
     "static/media/okonomiyaki.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/okonomiyaki.0302d3e8e6471fc0a4a3.jpg",
+    "static/media/red-traditional-light-pole-kifune-shrine-kyoto-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/red-traditional-light-pole-kifune-shrine-kyoto-japan.337e0565e5029dd88d46.jpg",
     "static/media/Nha Trang.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Nha Trang.a37ad3f6e57d0adbe250.jpg",
     "static/media/HA.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HA.ba03810eba69eab7010e.jpg",
     "static/media/Hai Phong.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Hai Phong.448e4bc76dd7fd1f4a12.jpg",
     "static/media/Ca Mau.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/Ca Mau.54fbbd56505383c00201.jpg",
     "static/media/HL (2).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HL (2).d3144975c8d5c3cdd162.jpg",
     "static/media/DL (2).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (2).8204933ba22def2264ef.jpg",
+    "static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossoms-chidorigafuchi-park-tokyo-japan.961c7a43dd61c08acb42.jpg",
     "static/media/DL (18).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (18).824a8838e92cee0474ff.jpg",
     "static/media/beautiful-cityscape-bangkok-highway-bridge-thailand.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/beautiful-cityscape-bangkok-highway-bridge-thailand.c9a6d2f5f368f8b35347.jpg",
     "static/media/DL (15).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/DL (15).abf4c30b474066473f5d.jpg",
@@ -92,12 +92,12 @@
     "static/media/HN (5).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/HN (5).b65041db7b35a08f2534.jpg",
     "static/media/logo.svg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/index.html",
-    "main.ffae4dc9.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.ffae4dc9.css.map",
-    "main.81d180a5.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.81d180a5.js.map",
+    "main.2711dec6.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.2711dec6.css.map",
+    "main.46d4278f.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.46d4278f.js.map",
     "787.9ef2590c.chunk.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffae4dc9.css",
-    "static/js/main.81d180a5.js"
+    "static/css/main.2711dec6.css",
+    "static/js/main.46d4278f.js"
   ]
 }
