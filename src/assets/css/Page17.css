@@ -72,15 +72,14 @@
 
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
     #p17 .back-content h1 {
-        left: 120px;
-        top: 150px;
-        font-size: 38px;
+        top: 170px;
+        font-size: 28px;
     }
 
     #p18 .front-content h1 {
         left: 8px;
         top: 210px;
-        font-size: 38px;
+        font-size: 28px;
     }
 
     #p18 .front-content h2 {

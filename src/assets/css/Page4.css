@@ -3,6 +3,7 @@
 }
 #p4 .front-content {
     justify-content: space-evenly;
+    padding: 0;
 }
 
 #p4 .front-content > .row {

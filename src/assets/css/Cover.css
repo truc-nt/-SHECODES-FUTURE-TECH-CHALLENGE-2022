@@ -30,8 +30,8 @@
 @media screen and (min-width: 375px) and (max-width: 500px), (min-width: 701px) and (max-width: 1000px) {
     #front-cover .front-content h1 {
         right: 10px;
-        bottom: 80px;
-        font-size: 30px;
+        bottom: 60px;
+        font-size: 20px;
     }
 
     #back-cover h1 {
