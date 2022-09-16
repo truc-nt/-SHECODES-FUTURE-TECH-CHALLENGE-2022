@@ -8,18 +8,20 @@
 } 
 
 #p2 .front-content .row:first-child div{
-    background-image: url('../img/VT (1).jpg');
+    /*background-image: url('../img/VT (1).jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover; */
+    background-color: grey;
     height: 100%;
 }
 
 #p2 .front-content .row:nth-child(2) div:first-child {
-    background-image: url('../img/VT (2).jpg');
+    /*background-image: url('../img/VT (2).jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover; */
+    background-color: grey;
     height: 100%;
 }
 
@@ -51,10 +53,11 @@
 #p2 .back-content .VT {
     width: 30%;
     height: 50%;
-    background-image: url('../img/VT (3).jpg');
+    /*background-image: url('../img/VT (3).jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover; */
+    background-color: grey; 
     position: absolute;
 }
 
@@ -64,7 +67,7 @@
 }
 
 #p2 .back-content .VT:nth-child(2) {
-    background-image: url('../img/VT (4).jpg');
+    /*background-image: url('../img/VT (4).jpg');*/
     bottom: 50px;
     right: 50px;
 }

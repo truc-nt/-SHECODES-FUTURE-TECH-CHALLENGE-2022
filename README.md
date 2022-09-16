@@ -46,9 +46,14 @@ Due to lack of writing skill in English, I wrote my thought in my mother tongue 
 
 * Thanks to https://www.photobookvietnam.com/. I had referred how people arrange the photos in the album so that it makes the photobook more beautiful
 
+## **Achievement**
+
+As a result, I was honored to gain 1st prize in Shecodes Future Tech Challenge.
+
 ## **Contact**
 
 Email: truc.ntw@gmail.com
+
 
 
 
