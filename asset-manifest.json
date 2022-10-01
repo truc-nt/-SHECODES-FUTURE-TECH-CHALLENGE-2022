@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.3f4606e0.css",
-    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.93643cae.js",
+    "main.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.a176607e.js",
     "static/js/787.9ef2590c.chunk.js": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js",
     "static/media/beautiful-cherry-blossoms-tokyo-sky-tree-spring-tokyo-japan.jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/beautiful-cherry-blossoms-tokyo-sky-tree-spring-tokyo-japan.05ba9bb1638fe646978b.jpg",
     "static/media/cherry-blossom-with-soft-focus-sakura-season-spring (2).jpg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/cherry-blossom-with-soft-focus-sakura-season-spring (2).dd38d290d6a12532b566.jpg",
@@ -89,11 +89,11 @@
     "static/media/logo.svg": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/index.html",
     "main.3f4606e0.css.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/css/main.3f4606e0.css.map",
-    "main.93643cae.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.93643cae.js.map",
+    "main.a176607e.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/main.a176607e.js.map",
     "787.9ef2590c.chunk.js.map": "/SHECODES-FUTURE-TECH-CHALLENGE-2022/static/js/787.9ef2590c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f4606e0.css",
-    "static/js/main.93643cae.js"
+    "static/js/main.a176607e.js"
   ]
 }
