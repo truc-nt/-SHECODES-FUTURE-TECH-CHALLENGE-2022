@@ -2,8 +2,7 @@
 
 ## **Introduction**
 
-This is a project which I compete in SHECODES FUTURE TECH CHALLENGE 2022. The topic of the competition is an album 
-preserving our photos, thoughts, and memories of a memorable journey or planning my future dream trips with my family. Since I didn't have many family travel so I decided to make a plan for my future family trips. 
+This is a project which I compete in SHECODES FUTURE TECH CHALLENGE 2022. The topic of the competition is an album preserving our photos, thoughts, and memories of a memorable journey or planning my future dream trips with my family. Since I didn't have many family travel so I decided to make a plan for my future family trips. 
 
 ## **Build with**
 
@@ -34,7 +33,7 @@ Each page of the album is displayed like an image slideshow. Press next and you 
 
 Each page has its own style, meanings. I had put all my story and feeling about this topic through this project.
 
-Due to lack of writing skill in English, I wrote my thought in my mother tongue - VietNamese. I want to express the story of myself in the most complete and meaningful way.
+Due to lack of writing skill in English, I wrote my thought in my mother tongue - VietNamese. I want to express the story of myself in the most complete and meaningful way. (Although after the competition, I will replace it with dummy text)
 
 ![This is album's pages](./src/assets/img/content.png)
 
