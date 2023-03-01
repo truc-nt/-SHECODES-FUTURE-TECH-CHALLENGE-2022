@@ -11,7 +11,7 @@ I built this project with Reactjs. In the beginning, I decided to code with HTML
 I didn't use any CSS Frameworks, I did it all by myself. At first, it took me too much time to style with CSS. However, later, I got used to and understand more about how CSS worked.
 I knew there had been another way to make CSS more professional, faster and clearer with SASS/SCSS but I didn't have enough time to learn about SASS/SCSS so my CSS files were quite long.
 
-Through this project, I have learned a lot of things. How to use state, ref in React, how to deploy a Reactjs website on Github,... And for CSS, I think that somehow CSS became more clear to me. I understand how flexbox works, how display works,...
+Through this project, I have learned a lot of things. How to use state, ref in React, how to deploy a Reactjs website on Github,... And for CSS, I think that somehow CSS became more clearly to me. I understand how flexbox works, how display works,...
 
 ## **Design**
 
